@@ -1,0 +1,31 @@
+{
+  "name": "guess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "guess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jposswald/Guess.js.git"
+  },
+  "keywords": [
+    "guess",
+    "node",
+    "puzzle",
+    "game"
+  ],
+  "author": "jposswald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jposswald/Guess.js/issues"
+  },
+  "homepage": "https://github.com/jposswald/Guess.js#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "prompt": "^1.2.2",
+    "prompt-sync": "^4.1.6",
+    "randomstring": "^1.2.2"
+  }
+}
