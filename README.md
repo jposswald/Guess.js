@@ -12,3 +12,6 @@ Note that the reply will always be first green, then blue, and then white.
 If you decide to give up or you can't wait to see the answer, you can simply type: 'solve', or 'help'.
 
 Created by Jposswald
+<hr>
+
+To play, you simply need to have node.js installed (you can get it here https://nodejs.org/en/download/), download the files, open the folder with your command line editor (terminal or cmd) and once there simply type Node Guess.js. And enjoy!
